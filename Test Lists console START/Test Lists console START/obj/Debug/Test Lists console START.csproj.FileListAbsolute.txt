@@ -1,0 +1,7 @@
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek I\H12 Test Lists console\Test Lists console START\Test Lists console START\bin\Debug\Test Lists console START.exe.config
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek I\H12 Test Lists console\Test Lists console START\Test Lists console START\bin\Debug\Test Lists console START.exe
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek I\H12 Test Lists console\Test Lists console START\Test Lists console START\bin\Debug\Test Lists console START.pdb
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek I\H12 Test Lists console\Test Lists console START\Test Lists console START\obj\Debug\Test Lists console START.csproj.AssemblyReference.cache
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek I\H12 Test Lists console\Test Lists console START\Test Lists console START\obj\Debug\Test Lists console START.csproj.CoreCompileInputs.cache
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek I\H12 Test Lists console\Test Lists console START\Test Lists console START\obj\Debug\Test Lists console START.exe
+C:\Users\Stijn\Dropbox\KA Malle\digi archief OPG test ex taak\6 ADB ICW\SOFT\C#\Boek I\H12 Test Lists console\Test Lists console START\Test Lists console START\obj\Debug\Test Lists console START.pdb

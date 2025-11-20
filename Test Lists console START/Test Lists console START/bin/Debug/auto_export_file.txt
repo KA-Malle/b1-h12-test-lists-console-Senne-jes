@@ -1,0 +1,10 @@
+﻿Citroen;Citroen C3;Benzine;11723;Citroen C3 1.2 PureTech;122
+Fiat;Fiat 500;Benzine;12990;Fiat 500 1.2 LOUNGE;110
+Hyundai;Hyundai i10;Benzine;15094;New Twist 1.0;119
+Dacia;Cdacia Dokker;Diesel;17290;Fourgon 1.5 DCI 75 Ambiance;108
+Opel;Opel Astra;Diesel;17390;Opel Astra 1.2;112
+Mitsubishi;Mitsubishi L200;Diesel;17450;Mitsubishi L200 2.5 4x4;150
+Suzuki;Suzuki Swift;Elektrisch/Benzine;14490;Suzuki Swift Club 1.2 Hybrid LED;106
+Mazda;Mazda 2;Elektrisch/Benzine;18990;Mazda SkyActiv-G 90 M Hybrid;94
+Fiat;Fiat Panda;Elektrisch/Benzine;13500;Fiat 1.0 FireFLy Sport Hybrid Nuova;92
+Suzuki;Suzuki Swift;Elektrisch/Benzine;13550;Suzuki Swift 1.2 Hybrid 2WD Cool Nuova;88
